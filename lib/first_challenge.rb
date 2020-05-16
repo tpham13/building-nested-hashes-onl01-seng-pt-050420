@@ -15,7 +15,8 @@ def first_challenge
       :heroine_friends => []
    }
 }
-
+end 
+epic_tragedy
 end 
 
 epic_tragedy
