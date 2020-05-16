@@ -16,8 +16,7 @@ def first_challenge
    }
 }
 end 
-epic_tragedy
-end 
+
 
 
 
